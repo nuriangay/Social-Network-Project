@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://nuriangay:06nuriangay@network.hmhfd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"afebb4d2eecc63357995",
+    "githubSecret":"8456ce7839ea59ccee041e4d25eeb0d737189026"
+
+}
